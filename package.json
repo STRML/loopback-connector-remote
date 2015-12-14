@@ -42,8 +42,5 @@
     "mocha": "~1.21.4",
     "strong-task-emitter": "0.0.5",
     "supertest": "~0.13.0"
-  },
-  "optionalDependencies": {
-    "sl-blip": "http://blip.strongloop.com/loopback-connector-remote@1.0.3"
   }
 }
